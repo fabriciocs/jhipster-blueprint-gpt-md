@@ -1,0 +1,1 @@
+# jhipster-blueprint-gpt-md
